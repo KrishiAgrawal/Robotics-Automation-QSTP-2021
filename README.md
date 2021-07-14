@@ -1,1 +1,2 @@
 # Robotics-Automation-QSTP-2021
+This is the course which begins from scratch by covering the basics of Python including branching, looping, basic I/O and functions. The key tool I will be learning in the course is the Robotics Operating System (ROS) - a software framework designed to make robotics development easier. Along with this I will also be working with Gazebo which is a robotics simulator where I can create my own robot models or even test out code on pre-existing Turtlebot.
